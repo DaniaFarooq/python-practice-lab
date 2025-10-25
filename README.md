@@ -1,4 +1,4 @@
-# Python Practice Lab 🐍🧪
+# Python Practice Lab 🧪
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-green)](https://github.com/DaniaFarooq/python-practice-lab)
